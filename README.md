@@ -48,14 +48,23 @@ The purpose of this portfolio is to present my professional background, skills, 
 
 ## Project Structure
 collins-atambo-portfolio/
+
 ├── atambo.html              # Main HTML file for the portfolio, containing all sections with detailed comments
+
 ├── atambo.css               # CSS file with styles for the entire website, split into three parts with comments for each section
+
 ├── atambo.js                # JavaScript file for sidebar toggle and scroll-to-top functionality, with comments for each section
+
 ├── images/                 # Folder for images used in the portfolio
+
 │   ├── atambp1.png            # Logo image for the sidebar 
+
 │   ├── atambo1.jpg          # Profile image for the About section 
+
 │   ├── interests.jpeg      # Image for the Interests section 
+
 │   └── atambograd.jpg       # Image for the Education section 
+
 ├── cv/                     #  the CV file
 │   └── atambo-cv.pdf  
 └── README.md 

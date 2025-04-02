@@ -47,18 +47,18 @@ The purpose of this portfolio is to present my professional background, skills, 
 - **Code Documentation**: Detailed comments are included in the HTML (`atambo.html`), CSS (`atambo.css`), and JavaScript (`atambo.js`) files to explain the purpose and functionality of each significant section, making the codebase easy to understand and maintain.
 
 ## Project Structure
-   collins-atambo-portfolio/
-├── index.html              # Main HTML file for the portfolio, containing all sections with detailed comments
-├── collo.css               # CSS file with styles for the entire website, split into three parts with comments for each section
-├── collo.js                # JavaScript file for sidebar toggle and scroll-to-top functionality, with comments for each section
+collins-atambo-portfolio/
+├── atambo.html              # Main HTML file for the portfolio, containing all sections with detailed comments
+├── atambo.css               # CSS file with styles for the entire website, split into three parts with comments for each section
+├── atambo.js                # JavaScript file for sidebar toggle and scroll-to-top functionality, with comments for each section
 ├── images/                 # Folder for images used in the portfolio
-│   ├── logo.png            # Logo image for the sidebar (replace with your actual logo)
-│   ├── collo1.jpg          # Profile image for the About section (replace with your image)
-│   ├── interests.jpeg      # Image for the Interests section (replace with your image)
-│   └── collograd.jpg       # Image for the Education section (replace with your image)
-├── cv/                     # Folder for the CV file
-│   └── collins-atambo-cv.pdf  # CV file for download (replace with your actual CV)
-└── README.md               # This README file with project details and setup instructions
+│   ├── atambp1.png            # Logo image for the sidebar 
+│   ├── atambo1.jpg          # Profile image for the About section 
+│   ├── interests.jpeg      # Image for the Interests section 
+│   └── atambograd.jpg       # Image for the Education section 
+├── cv/                     #  the CV file
+│   └── atambo-cv.pdf  
+└── README.md 
 
 
 ## Submission Instructions

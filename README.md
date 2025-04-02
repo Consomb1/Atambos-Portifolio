@@ -64,7 +64,7 @@ The purpose of this portfolio is to present my professional background, skills, 
 ## Submission Instructions
 This project was submitted as part of the PLP Academy Hackathon - Portfolio Challenge. The submission process followed these steps:
 1. **Create Your Portfolio**: Built a complete portfolio website with all required sections (About, Interests, Education, Languages, Projects, Contact).
-2. **Push to GitHub**: Uploaded the project to a public GitHub repository at `https://github.com/<your-username>/collins-atambo-portfolio`.
+2. **Push to GitHub**: Uploaded the project to a public GitHub repository at `https://github.com/Consomb1/Collins-Portifolio.git`.
 3. **Update README**: Ensured this README includes detailed information about the portfolio, its features, and setup instructions.
 4. **Submit Your Project**: Shared the GitHub repository URL via the provided submission form on the PLP Academy platform.
 

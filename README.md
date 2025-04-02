@@ -55,9 +55,9 @@ collins-atambo-portfolio/
 
 ├── atambo.js                # JavaScript file for sidebar toggle and scroll-to-top functionality, with comments for each section
 
-├── images/                 # Folder for images used in the portfolio
+├── images
 
-│   ├── atambp1.png            # Logo image for the sidebar 
+│   ├── atambo1.png            # Logo image for the sidebar 
 
 │   ├── atambo1.jpg          # Profile image for the About section 
 

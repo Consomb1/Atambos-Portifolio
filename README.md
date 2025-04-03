@@ -44,12 +44,12 @@ The purpose of this portfolio is to present my professional background, skills, 
     
   - **Animations**: Animated slide-in transitions for sections and hover effects on buttons, cards, and icons for interactivity.
     
-- **Code Documentation**: Detailed comments are included in the HTML (`atambo.html`), CSS (`atambo.css`), and JavaScript (`atambo.js`) files to explain the purpose and functionality of each significant section, making the codebase easy to understand and maintain.
+- **Code Documentation**: Detailed comments are included in the HTML (`index.html`), CSS (`atambo.css`), and JavaScript (`atambo.js`) files to explain the purpose and functionality of each significant section, making the codebase easy to understand and maintain.
 
 ## Project Structure
 collins-atambo-portfolio/
 
-├── atambo.html              # Main HTML file for the portfolio, containing all sections with detailed comments
+├── index.html              # Main HTML file for the portfolio, containing all sections with detailed comments
 
 ├── atambo.css               # CSS file with styles for the entire website, split into three parts with comments for each section
 
